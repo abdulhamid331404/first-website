@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+    background-image: url(../images/banner-img/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+.div-area{
+    height: 300px;
+    width: 50%;
+    border: 5px solid gold;
+    border-radius: 10px;
+    margin: 50px;
+    padding: 50px;
+   
+}
